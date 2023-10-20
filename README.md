@@ -1,2 +1,2 @@
 # TimeTable
-An interactive timetable that helps online tutors plan their week. [https://time-table.netlify.app/]()
+An interactive timetable that helps online tutors plan their week. [Link](https://time-table.netlify.app/)
